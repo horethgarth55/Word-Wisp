@@ -1,4 +1,4 @@
-const CACHE_NAME = 'word-wisp-shell-v5';
+const CACHE_NAME = 'word-wisp-shell-v6';
 const INDEX_URL = new URL('./index.html', self.location.href).href;
 const APP_SHELL = [
   INDEX_URL,
